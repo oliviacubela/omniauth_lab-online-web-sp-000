@@ -1,3 +1,4 @@
+
 class SessionsController < ApplicationController
   # This is required because of a quirk the "developer" authentication
   # strategy. We'll remove this when we move to a "real" provider.
